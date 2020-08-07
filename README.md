@@ -21,13 +21,21 @@
 
 ---
 
-### 👩🏽‍💻 Latest Blog & Log Posts
-
-_Note: logs are a collection of shorter posts, consisting of topics I tend to google multiple times a week_
+### 👩🏽‍💻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📔 Latest Logs
+
+_Note: logs are a collection of shorter posts, consisting of topics I tend to google multiple times a week_
+
+<!-- LOGS:START -->
+
+<!-- LOGS:END -->
 
 ---
 
