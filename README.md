@@ -13,21 +13,15 @@
 
 ---
 
+### 🎤 Talks
+
+- [A Journey Into Tech - from Client Management to Software Consulting](https://www.youtube.com/watch?v=SbX_-ahCx1Y&t=12m8s)
+
 ### 👩🏽‍💻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📔 Latest Logs
-
-_Note: logs are a collection of shorter posts, consisting of topics I tend to google multiple times a week_
-
-<!-- LOGS:START -->
-
-<!-- LOGS:END -->
 
 ---
 
