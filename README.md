@@ -6,7 +6,7 @@
 
 ### Currently:
 
-- 💧Learning [Elixir][elixir]
+- 💧Learning [Elixir][elixir] and [React Native][reactnative]
 - ☁️ Learning [AWS][aws] fundamentals
 - 🙋🏽‍♀️ Preparing a talk on learning a functional language
 - ⭐️Aiming to contribute to open source projects
@@ -21,15 +21,13 @@
 
 ---
 
-### 👩🏽‍💻 Latest Blog Posts
+### 👩🏽‍💻 Latest Blog & Log Posts
+
+_Note: logs are a collection of shorter posts, consisting of topics I tend to google multiple times a week_
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📔 Today I Learnt...
 
 ---
 
@@ -40,3 +38,4 @@
 [codingblackfemales]: https://codingblackfemales.com
 [elixir]: https://elixir-lang.org/
 [aws]: https://aws.amazon.com/
+[reactnative]: https://reactnative.dev/
