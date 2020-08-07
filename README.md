@@ -13,11 +13,11 @@
 
 ### Connect:
 
-- [<img align="left" alt="ellehallal.dev | Website" width="22px" src="https://www.iconsdb.com/icons/preview/orange/globe-4-xxl.png" /><img align="left" alt="whitespace" width="10px" height="10px" src="https://i.stack.imgur.com/Vkq2a.png" />ellehallal.dev][website]
+- [<img align="left" alt="ellehallal.dev | Website" width="22px" src="https://www.iconsdb.com/icons/preview/orange/globe-4-xxl.png" />ellehallal.dev][website]
 
-- [<img align="left" alt="ellehallal | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/orange/linkedin-3-xxl.png" /><img align="left" alt="whitespace" width="10px" height="10px" src="https://i.stack.imgur.com/Vkq2a.png" />linkedin.com/in/ellehallal][linkedin]
+- [<img align="left" alt="ellehallal | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/orange/linkedin-3-xxl.png" />linkedin.com/in/ellehallal][linkedin]
 
-- [<img align="left" alt="ellehallal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/orange/twitter-xxl.png" /><img align="left" alt="whitespace" width="10px" height="10px" src="https://i.stack.imgur.com/Vkq2a.png" />twitter.com/ellehallal][twitter]
+- [<img align="left" alt="ellehallal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/orange/twitter-xxl.png" />twitter.com/ellehallal][twitter]
 
 ---
 
