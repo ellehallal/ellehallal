@@ -20,7 +20,9 @@
 ### 👩🏽‍💻 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Learn To Code Using Free Resources](https://ellehallal.dev/blog/2020/06/2020-06-14-learn-to-code-using-free-resources/)
+- [SOLID Principles - Open / Closed Principle](https://ellehallal.dev/blog/2020/03/2020-03-05-solid-principles-the-open-closed-principle/)
+- [SOLID Principles - Interface Segregation](https://ellehallal.dev/blog/2020/02/2020-02-26-solid-principles-the-interface-segregation-principle/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
