@@ -1,4 +1,4 @@
-## Elle Hallal - [ellehallal.dev][website] 👩🏽‍💻
+## Elle Hallal - [ellehallal.dev][website] 👩🏽‍💻[<img alt="ellehallal.dev | Website" width="22px" src="https://www.iconsdb.com/icons/preview/orange/globe-4-xxl.png" />][website] [<img  alt="ellehallal | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/orange/linkedin-3-xxl.png" />][linkedin] [<img alt="ellehallal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/orange/twitter-xxl.png" />][twitter]
 
 - Software Crafter | [8th Light][8thlight]
 - Leadership Team | [Coding Black Females][codingblackfemales]
@@ -10,14 +10,6 @@
 - ☁️ Learning [AWS][aws] fundamentals
 - 🙋🏽‍♀️ Preparing a talk on learning a functional language
 - ⭐️Aiming to contribute to open source projects
-
-### Connect:
-
-- [<img align="left" alt="ellehallal.dev | Website" width="22px" src="https://www.iconsdb.com/icons/preview/orange/globe-4-xxl.png" />ellehallal.dev][website]
-
-- [<img align="left" alt="ellehallal | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/orange/linkedin-3-xxl.png" />linkedin.com/in/ellehallal][linkedin]
-
-- [<img align="left" alt="ellehallal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/orange/twitter-xxl.png" />twitter.com/ellehallal][twitter]
 
 ---
 
