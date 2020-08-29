@@ -23,8 +23,8 @@
 - [Learn To Code Using Free Resources](https://ellehallal.dev/blog/2020/06/2020-06-14-learn-to-code-using-free-resources/)
 - [SOLID Principles - Open / Closed Principle](https://ellehallal.dev/blog/2020/03/2020-03-05-solid-principles-the-open-closed-principle/)
 - [SOLID Principles - Interface Segregation](https://ellehallal.dev/blog/2020/02/2020-02-26-solid-principles-the-interface-segregation-principle/)
-- [Week 4 - Testing input with Rspec & an intro to JSON](https://ellehallal.dev/blog/2018/11/2018-11-16-testing-input-rspec-introduction-to-json/)
-- [Week 3 - More TDD, Ruby Classes & Self Care](https://ellehallal.dev/blog/2018/11/2018-11-12-tdd-ruby-classes-self-care/)
+- [Testing input with Rspec & an intro to JSON](https://ellehallal.dev/blog/2018/11/2018-11-16-testing-input-rspec-introduction-to-json/)
+- [More TDD, Ruby Classes & Self Care](https://ellehallal.dev/blog/2018/11/2018-11-12-tdd-ruby-classes-self-care/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
