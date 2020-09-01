@@ -21,10 +21,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn To Code Using Free Resources](https://ellehallal.dev/blog/2020/06/2020-06-14-learn-to-code-using-free-resources/)
-- [What is the Open / Closed Principle?](https://ellehallal.dev/blog/2020/03/2020-03-05-solid-principles-the-open-closed-principle/)
-- [What is the Interface Segregation Principle?](https://ellehallal.dev/blog/2020/02/2020-02-26-solid-principles-the-interface-segregation-principle/)
-- [What is Abstraction in Object-Oriented Programming?](https://ellehallal.dev/blog/2019/07/2019-07-02-what-is-abstraction-in-object-oriented-programming/)
-- [What is the template method design pattern?](https://ellehallal.dev/blog/2019/06/2019-06-12-what-is-the-template-method-design-pattern/)
+- [What Is The Open / Closed Principle?](https://ellehallal.dev/blog/2020/03/2020-03-05-solid-principles-the-open-closed-principle/)
+- [What Is The Interface Segregation Principle?](https://ellehallal.dev/blog/2020/02/2020-02-26-solid-principles-the-interface-segregation-principle/)
+- [What Is Abstraction In Object-Oriented Programming?](https://ellehallal.dev/blog/2019/07/2019-07-02-what-is-abstraction-in-object-oriented-programming/)
+- [What Is The Template Method Design Pattern?](https://ellehallal.dev/blog/2019/06/2019-06-12-what-is-the-template-method-design-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
