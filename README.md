@@ -6,7 +6,7 @@
 
 ### Currently:
 
-- Learning [Elixir][elixir] and [React Native][reactnative]
+- Learning [Elixir][elixir]
 - Learning [AWS][aws] fundamentals
 
 ---
