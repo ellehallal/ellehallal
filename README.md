@@ -11,11 +11,11 @@
 
 ---
 
-### 🎤 Talks
+### Talks
 
 - [A Journey Into Tech - from Client Management to Software Consulting](https://www.youtube.com/watch?v=SbX_-ahCx1Y&t=12m8s)
 
-### 👩🏽‍💻 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Learn To Code Using Free Resources](https://ellehallal.dev/blog/2020/06/2020-06-14-learn-to-code-using-free-resources/)
