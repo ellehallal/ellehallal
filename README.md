@@ -6,10 +6,8 @@
 
 ### Currently:
 
-- 💧Learning [Elixir][elixir] and [React Native][reactnative]
-- ☁️ Learning [AWS][aws] fundamentals
-- 🙋🏽‍♀️ Preparing a talk on learning a functional language
-- ⭐️Aiming to contribute to open source projects
+- Learning [Elixir][elixir] and [React Native][reactnative]
+- Learning [AWS][aws] fundamentals
 
 ---
 
