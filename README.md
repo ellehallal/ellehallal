@@ -13,7 +13,7 @@
 
 ### Talks
 
-- [A Journey Into Tech - from Client Management to Software Consulting](https://www.youtube.com/watch?v=SbX_-ahCx1Y&t=12m8s)
+- [A Journey Into Tech - from Client Management to Software Engineering](https://www.youtube.com/watch?v=SbX_-ahCx1Y&t=12m8s)
 
 ### Latest Blog Posts
 
