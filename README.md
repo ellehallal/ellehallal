@@ -1,7 +1,8 @@
 ## Elle Hallal - [ellehallal.dev][website] 👩🏽‍💻[<img alt="ellehallal.dev | Website" width="22px" src="https://www.iconsdb.com/icons/preview/orange/globe-4-xxl.png" />][website] [<img  alt="ellehallal | LinkedIn" width="22px" src="https://www.iconsdb.com/icons/preview/orange/linkedin-3-xxl.png" />][linkedin] [<img alt="ellehallal | Twitter" width="22px" src="https://www.iconsdb.com/icons/preview/orange/twitter-xxl.png" />][twitter]
 
-- Software Crafter | [8th Light][8thlight]
-- Leadership Team | [Coding Black Females][codingblackfemales]
+- Senior Software Engineer | [8th Light][8thlight]
+- Leadership Team (Tech & Courses) | [Coding Black Females][codingblackfemales]
+- Workshop Facilitator | [Coding Black Females][codingblackfemales]
 - Mentor | [Coding Black Females][codingblackfemales]
 
 ### Currently:
